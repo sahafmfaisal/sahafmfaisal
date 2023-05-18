@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SahafMFaisal
-- 👀 I’m interested in web and block chain development
-- 🌱 I’m currently learning 
+- 👀 I’m interested in web and blockchain development
+- 🌱 I’m a self-learning developer, who wishes to solve real-time problems and tasks using the current advanced technologies and programming. 
 - 📫 reach me via sahafmfaisal076@gmail.com
 
 <!---
