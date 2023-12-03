@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **freelance**
 
-- 🌱 I’m currently learning **backend development**
+- 🌱 I’m currently learning **web3 and rust**
 
-- 💬 Ask me about **html,css,react**
+- 💬 Ask me about **html,css,js,mern,solidity,solidity contracts**
 
 - 📫 How to reach me **sahafmfaisal076@gmail.com**
 
