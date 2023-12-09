@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on freelance<br><br>🌱 I’m currently learning web3 and rust<br><br>💬 Ask me about HTML, CSS, JS, MERN, SOLIDITY, SOLIDITY contracts<br><br>📫 How to reach me sahafmfaisal076@gmail.com
+🔭 I’m currently working on freelance<br><br>🌱 I’m currently learning web3 and rust<br><br>💬 Ask me about HTML, CSS, JS, MERN, SOLIDITY, SOLIDITY contracts<br><br>📫 Reach me sahafmfaisal076@gmail.com
 
 
 ## 🌐 Socials:
