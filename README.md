@@ -1,4 +1,4 @@
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="48" height="48 /> What's up?</h1>
 
 <p> My name is <b>SAHAF M FAISAL<b> and I'm a fullstack developer, from <img src="https://img.icons8.com/color/48/india-circular.png" width="17" /> <b>Kerala, India</b>. </p>
 
