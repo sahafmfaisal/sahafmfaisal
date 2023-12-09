@@ -1,6 +1,6 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<p> My name is <b>SAHAF M FAISAL<b> and I'm a fullstack developer, from <img src="https://www.flaticon.com/free-icon/flag_10597864.png" width="17" /> <b>Kerala, India</b>. </p>
+<p> My name is <b>SAHAF M FAISAL<b> and I'm a fullstack developer, from <img src="" width="17" /> <b>Kerala, India</b>. </p>
 
 # 💫 About Me:
 🔭 I’m currently working on <strong>freelance</strong><br><br>🌱 I’m currently learning <strong>web3 and rust</strong><br><br>💬 Ask me about <strong>HTML, CSS, JS, MERN, SOLIDITY, SOLIDITY contracts</strong><br><br>📫 Reach me <strong>sahafmfaisal076@gmail.com</strong>
