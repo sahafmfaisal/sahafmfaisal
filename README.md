@@ -3,7 +3,7 @@
 <p> My name is <b>SAHAF M FAISAL<b> and I'm a fullstack developer, from <img src="https://img.icons8.com/color/48/india-circular.png" height="25"/> <b>Kerala, India</b>. </p>
 
 # 💫 About Me:
-🔭 I’m currently working on <strong>freelance</strong><br><br>🌱 I’m currently learning <strong>web3 and rust</strong><br><br>💬 Ask me about <strong>HTML, CSS, JS, MERN, SOLIDITY, SOLIDITY contracts</strong><br><br>🎲 And ... i play ♟ chess online<br><br>📫 Reach me <strong>sahafmfaisal076@gmail.com</strong>
+🔭 I’m currently working on <strong>freelance</strong><br><br>🌱 I’m currently learning <strong>WEB3,RUST,LLMs,DEEP LEARNING</strong><br><br>💬 Ask me about <strong>HTML, CSS, JS, MERN, SOLIDITY, SOLIDITY contracts</strong><br><br>🎲 And ... i play ♟ chess online<br><br>📫 Reach me <strong>sahafmfaisal076@gmail.com</strong>
 
 
 ## 🌐 Socials:
@@ -35,5 +35,5 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sahafmfaisal) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sahafm) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/sahafmfaisal) 
 
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
