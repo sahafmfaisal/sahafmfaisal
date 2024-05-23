@@ -25,9 +25,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SahafMFaisal&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='[https://9gag.com/tag/coding]' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=SahafMFaisal&icon=7&color=10)](https://visitcount.itsvg.in)
 
