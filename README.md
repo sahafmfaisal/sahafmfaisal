@@ -1,6 +1,6 @@
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"/> What's up?</h1>
 
-<p> My name is <b>SAHAF M FAISAL<b> and I'm a MERN stack developer, from <img src="https://img.icons8.com/color/48/india-circular.png" height="17" /> <b>Kerala, India</b>. </p>
+<p> This is <b>SAHAF M FAISAL<b> and I'm a MERN stack developer, from <img src="https://img.icons8.com/color/48/india-circular.png" height="17" /> <b>Kerala, India</b>. </p>
 
 # About Me:
 🔭 I’m currently working on <strong>OpenSource</strong><br><br>🌱 I’m currently exploring <strong>WEB3,RUST,LLMs & DEEP LEARNING</strong><br><br>💬 Ask me about <strong>HTML, CSS, JS, MERN, SOLIDITY, SOLIDITY contracts</strong><br><br>🎲 And ... i play ♟ chess online<br><br>📫 Reach me <strong>sahafmfaisal076@gmail.com</strong>
