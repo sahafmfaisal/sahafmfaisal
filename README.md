@@ -7,5 +7,4 @@ I'm a computer science student from Kerala who builds with code and design at th
 Lately that means open source, and learning whatever the next problem asks for, even when I don't know it yet.
 
 If you have something stubborn that needs building, say hi.
-
 [Email](mailto:sahafmfaisal076@gmail.com)
